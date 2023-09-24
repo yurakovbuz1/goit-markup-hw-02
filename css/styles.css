@@ -103,6 +103,7 @@ ul {
 
 .solutions-title {
   color: #ffffff;
+  text-align: center;
   /* Header 1 */
   font-size: 56px;
   font-weight: 700;
@@ -166,6 +167,7 @@ ul {
 
 .team-title {
   color: #2e2f42;
+  text-align: center;
   /* Header 2 */
   font-size: 36px;
   font-weight: 700;
