@@ -39,8 +39,8 @@ ul {
 .nav-bar {
 }
 
-.nav-item a {
-  color: var(--NAVY-BLUE, #2e2f42);
+.nav-item {
+  color: #6366aa;
 
   font-size: 16px;
   font-weight: 500;
@@ -48,7 +48,7 @@ ul {
   letter-spacing: 0.02em;
 }
 
-.nav-item a:hover {
+.nav-item:hover {
   color: #404bbf;
   /* Body Medium */
   font-size: 16px;
@@ -60,7 +60,7 @@ ul {
   background: var(--OCEAN, #404bbf);
 }
 
-.nav-item a:focus {
+.nav-item:focus {
   color: #404bbf;
 }
 
